@@ -165,7 +165,7 @@ strong {
   float: left;
   margin-top: -3px; }
   .social-list a:before {
-    color: #c60;
+    color: #ff0000;
     -moz-transition: 0.3s;
     -o-transition: 0.3s;
     -webkit-transition: 0.3s;
@@ -185,7 +185,7 @@ strong {
   line-height: 31px;
   float: right; }
   .copyright a {
-    color: #c60; }
+    color: #ff0000; }
     .copyright a:hover {
       color: #2b2b2b; }
   @media (max-width: 1199px) {
@@ -627,7 +627,7 @@ nav {
   border-color: transparent transparent #fff transparent; }
 .sf-menu > li > a {
   font: 300 18px/18px "Roboto", sans-serif;
-  color: #c60; }
+  color: #ff0000; }
 .sf-menu > li.sfHover > a, .sf-menu > li > a:hover {
   color: #fff; }
 .sf-menu > li.active > a {
@@ -950,7 +950,7 @@ header {
     display: inline-block;
     font-size: 18px;
     line-height: 18px;
-    color: #c60; }
+    color: #ff0000; }
     header address:before {
       content: '';
       width: 17px;
@@ -975,7 +975,7 @@ header {
 =========================================================*/
 main {
   display: block;
-  background: #c60; }
+  background: #ff0000; }
   @media (max-width: 767px) {
     main {
       text-align: center;
