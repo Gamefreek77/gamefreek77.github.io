@@ -505,7 +505,7 @@ nav {
     left: 54px;
     top: 71px;
     font-size: 60px;
-    color: #cc6600; }
+    color: #ff0000; }
   @media (max-width: 767px) {
     .c-block {
       padding-left: 29px; }
@@ -557,7 +557,7 @@ nav {
 .btn2 {
   line-height: 20px; }
   .btn2:hover {
-    color: #cc6600; }
+    color: #ff0000; }
   .btn2:active {
     color: #fff; }
   .btn2:after {
@@ -583,14 +583,14 @@ nav {
   background: #fff; }
 
 .bg-2 {
-  background: #cc6600; }
+  background: #ff0000; }
 
 .bg-3 {
-  background: #cc6600; }
+  background: #ff0000; }
 
 /*=================== Colors ===========================*/
 .c-1 {
-  color: #cc6600; }
+  color: #ff0000; }
 
 .c-2 {
   color: #fff; }
@@ -872,7 +872,7 @@ nav {
     margin-top: 20px;
     padding-bottom: 20px; }
   .isStuck nav a {
-    color: #cc6600; }
+    color: #ff0000; }
   .isStuck nav .active > a:hover, .isStuck nav a:hover {
     color: #fff; }
   .isStuck nav .active > a {
@@ -888,7 +888,7 @@ nav {
   font-size: 16px;
   line-height: 42px;
   color: #000;
-  background: #cc6600;
+  background: #ff0000;
   position: fixed;
   right: 198px;
   bottom: 180px;
@@ -1291,7 +1291,7 @@ figure.slider figure:hover figcaption {
 }
 
 .single-accordion h5 {
-  color: #cc6600;
+  color: #ff0000;
 }
 
 .single-accordion p {
